@@ -1,0 +1,11 @@
+{
+  "name": "calculadora-ci",
+  "version": "1.0.0",
+  "description": "Exemplo de CI com JavaScript e GitHub Actions — Seminário IFMS",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
